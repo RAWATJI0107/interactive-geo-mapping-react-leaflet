@@ -1,0 +1,24 @@
+.geo-label{
+    font-size: 14px;
+    font-weight: bold;
+    color: black;
+    background: none;
+    border: none;
+    box-shadow: none;
+    padding: 0;
+}
+
+
+/* 🟢 Category marker styling */
+.custom-marker-wrapper {
+  background: transparent;
+  border: none;
+}
+
+.custom-marker {
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  border: 3px solid white;
+  box-shadow: 0 0 3px rgba(0,0,0,0.4);
+}
